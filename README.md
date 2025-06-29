@@ -69,9 +69,9 @@
 **Task 26:** `reverse()` yordamida ro‘yxatni teskari aylantiring.
 
 **Task 27:** `clear()` yordamida barcha elementlarni o‘chiring.
-
+`
 **Task 28:** `copy()` yordamida ro‘yxat nusxasini oling va ikkalasini chiqarib solishtiring.
-
+`
 ---
 
 ### 🧠 **Aralash va Mantiqiy 5 ta Qiyinroq Task**

@@ -1,1 +1,1 @@
-print()
+mevalar = ["olma", "banan", "shaftoli"]
